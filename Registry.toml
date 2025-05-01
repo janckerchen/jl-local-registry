@@ -1,0 +1,6 @@
+name = "MyRegistry"
+uuid = "273435b0-b57a-4e42-8383-e741f6b3483b"
+repo = "https://github.com/janckerchen/jl-local-registry.git"
+description = "本地私有注册表"
+
+[packages]
