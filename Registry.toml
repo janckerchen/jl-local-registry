@@ -5,3 +5,4 @@ description = "本地私有注册表"
 
 [packages]
 71d211c4-67af-4226-bf57-c04ce0a47fa7 = { name = "REPLBuilder", path = "R/REPLBuilder" }
+ac4f51f7-48c2-4af3-adf1-f52a396a500e = { name = "KnitDI", path = "K/KnitDI" }
