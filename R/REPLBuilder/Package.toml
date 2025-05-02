@@ -1,0 +1,3 @@
+name = "REPLBuilder"
+uuid = "71d211c4-67af-4226-bf57-c04ce0a47fa7"
+repo = "file:///opt/lib/REPLBuilder.jl"

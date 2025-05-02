@@ -4,3 +4,4 @@ repo = "https://github.com/janckerchen/jl-local-registry.git"
 description = "本地私有注册表"
 
 [packages]
+71d211c4-67af-4226-bf57-c04ce0a47fa7 = { name = "REPLBuilder", path = "R/REPLBuilder" }
