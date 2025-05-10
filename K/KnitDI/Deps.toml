@@ -1,6 +1,8 @@
 [0]
-KnitCore = "7568ab37-29fa-429f-9993-a40ff907fe74"
 Logging = "56ddb016-857b-54e1-b83d-db4d58db5568"
+
+["0-0.1.1"]
+KnitCore = "7568ab37-29fa-429f-9993-a40ff907fe74"
 
 ["0.1.1-0"]
 InteractiveUtils = "b77e0a4c-d291-57a0-90e8-8db25a27a240"
