@@ -1,0 +1,3 @@
+name = "CompositeConfigLoader"
+uuid = "a2bf8f19-0d18-4b4f-beab-d2df36dc25e4"
+repo = "file:///opt/lib/CompositConfigLoader.jl"
