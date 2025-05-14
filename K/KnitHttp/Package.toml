@@ -1,0 +1,3 @@
+name = "KnitHttp"
+uuid = "240cef0a-9318-4761-93e2-d9e16eccb069"
+repo = "/opt/lib/KnitHttp.jl"
