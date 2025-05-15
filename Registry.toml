@@ -9,6 +9,7 @@ description = "本地私有注册表"
 71d211c4-67af-4226-bf57-c04ce0a47fa7 = { name = "REPLBuilder", path = "R/REPLBuilder" }
 7568ab37-29fa-429f-9993-a40ff907fe74 = { name = "KnitCore", path = "K/KnitCore" }
 8880a6f3-ad0b-4cd1-b54c-bd72e2e73c43 = { name = "KnitConfig", path = "K/KnitConfig" }
+91507d90-1c9e-438c-96c4-1ba597712810 = { name = "KnitState", path = "K/KnitState" }
 99523da8-7d47-47b1-81dd-04d3b12d7c54 = { name = "KnitFS", path = "K/KnitFS" }
 a2bf8f19-0d18-4b4f-beab-d2df36dc25e4 = { name = "CompositeConfigLoader", path = "C/CompositeConfigLoader" }
 ac4f51f7-48c2-4af3-adf1-f52a396a500e = { name = "KnitDI", path = "K/KnitDI" }
