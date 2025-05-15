@@ -7,3 +7,6 @@ KnitCore = "7568ab37-29fa-429f-9993-a40ff907fe74"
 ["0.1.1-0"]
 InteractiveUtils = "b77e0a4c-d291-57a0-90e8-8db25a27a240"
 ResultTypes = "08a2b407-ddc3-586a-afd6-c784ad1fffe2"
+
+["0.1.7-0"]
+KnitCore = "7568ab37-29fa-429f-9993-a40ff907fe74"
