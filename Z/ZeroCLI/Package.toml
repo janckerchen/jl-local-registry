@@ -1,0 +1,3 @@
+name = "ZeroCLI"
+uuid = "fa25229b-0c51-49da-a28f-84a77d707b8e"
+repo = "/opt/lib/ZeroCLI.jl"
