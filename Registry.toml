@@ -5,6 +5,7 @@ description = "本地私有注册表"
 
 [packages]
 075372ef-9491-42ef-b96d-735a065e5a57 = { name = "KnitUserIO", path = "K/KnitUserIO" }
+0c0cabac-adea-46a4-b989-85ad082cde13 = { name = "CloudProvisionVultr", path = "C/CloudProvisionVultr" }
 240cef0a-9318-4761-93e2-d9e16eccb069 = { name = "KnitHttp", path = "K/KnitHttp" }
 3f8fd914-8333-4068-8a7e-a1bb52a1c891 = { name = "KnitIntent", path = "K/KnitIntent" }
 58888f4e-6b76-4670-9d04-eda9c0ce1c3a = { name = "KnitShell", path = "K/KnitShell" }
