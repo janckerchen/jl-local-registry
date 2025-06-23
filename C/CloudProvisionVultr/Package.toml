@@ -1,3 +1,3 @@
 name = "CloudProvisionVultr"
 uuid = "0c0cabac-adea-46a4-b989-85ad082cde13"
-repo = "https://github.com/cybit/CloudProvisionVultr.jl"
+repo = "/opt/lib/CloudProvisionVultr.jl"
