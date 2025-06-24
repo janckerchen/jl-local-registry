@@ -1,0 +1,3 @@
+name = "AbstractCloud"
+uuid = "b080db75-af2b-41b8-a5e3-f52cafd13da9"
+repo = "/opt/lib/AbstractCloud.jl"
