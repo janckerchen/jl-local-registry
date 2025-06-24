@@ -8,6 +8,7 @@ description = "本地私有注册表"
 0c0cabac-adea-46a4-b989-85ad082cde13 = { name = "CloudProvisionVultr", path = "C/CloudProvisionVultr" }
 12345678-1234-5678-9abc-123456789abc = { name = "AnsibleOrchestrator", path = "A/AnsibleOrchestrator" }
 240cef0a-9318-4761-93e2-d9e16eccb069 = { name = "KnitHttp", path = "K/KnitHttp" }
+250039e9-ffb4-4cc8-99a9-6fd599fdda1e = { name = "VultrCloud", path = "V/VultrCloud" }
 3f8fd914-8333-4068-8a7e-a1bb52a1c891 = { name = "KnitIntent", path = "K/KnitIntent" }
 58888f4e-6b76-4670-9d04-eda9c0ce1c3a = { name = "KnitShell", path = "K/KnitShell" }
 66c3412d-2a13-47c6-8507-f9a6b065dcc0 = { name = "KnitCommand", path = "K/KnitCommand" }
