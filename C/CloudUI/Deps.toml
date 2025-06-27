@@ -1,0 +1,8 @@
+[0]
+CloudCore = "eedf712c-e094-4e2f-b26f-1b21bbf083bb"
+CloudInit = "15a0a7c1-9881-4918-a92f-5ea6b2555332"
+CloudNetworking = "2309e8d9-e6b5-456d-9051-bf7f574e8534"
+Printf = "de0858da-6303-5e67-8744-51eddeeeb8d7"
+ProgressLogging = "33c8b6b6-d38a-422a-b730-caa89a2f386c"
+SSHConfig = "2e1b12dd-12a8-4702-adcc-0a56fdfcdc4b"
+TerminalLoggers = "5d786b92-1e48-4d6f-9151-6b4477ca9bed"
