@@ -1,0 +1,3 @@
+name = "CloudInit"
+uuid = "15a0a7c1-9881-4918-a92f-5ea6b2555332"
+repo = "/opt/lib/CloudInit.jl"

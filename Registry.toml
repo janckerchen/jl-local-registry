@@ -7,6 +7,7 @@ description = "本地私有注册表"
 075372ef-9491-42ef-b96d-735a065e5a57 = { name = "KnitUserIO", path = "K/KnitUserIO" }
 0c0cabac-adea-46a4-b989-85ad082cde13 = { name = "CloudProvisionVultr", path = "C/CloudProvisionVultr" }
 12345678-1234-5678-9abc-123456789abc = { name = "AnsibleOrchestrator", path = "A/AnsibleOrchestrator" }
+15a0a7c1-9881-4918-a92f-5ea6b2555332 = { name = "CloudInit", path = "C/CloudInit" }
 240cef0a-9318-4761-93e2-d9e16eccb069 = { name = "KnitHttp", path = "K/KnitHttp" }
 250039e9-ffb4-4cc8-99a9-6fd599fdda1e = { name = "VultrCloud", path = "V/VultrCloud" }
 2e1b12dd-12a8-4702-adcc-0a56fdfcdc4b = { name = "SSHConfig", path = "S/SSHConfig" }
