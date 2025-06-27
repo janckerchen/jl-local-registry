@@ -1,0 +1,3 @@
+name = "CloudCore"
+uuid = "eedf712c-e094-4e2f-b26f-1b21bbf083bb"
+repo = "/opt/lib/CloudCore.jl"
