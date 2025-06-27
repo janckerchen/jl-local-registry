@@ -4,8 +4,12 @@ AnsibleRunner = "af517f51-8746-4ff3-bf07-7ab607636cde"
 ["0-0.1.0"]
 CloudProvisionVultr = "0c0cabac-adea-46a4-b989-85ad082cde13"
 
-["0.1.1-0"]
+["0.1.1-0.1.6"]
 VultrCloud = "250039e9-ffb4-4cc8-99a9-6fd599fdda1e"
 
 ["0.1.6-0"]
 Reexport = "189a3867-3050-52da-a836-e630ba90ab69"
+
+["0.1.8-0"]
+Dates = "ade2ca70-3891-5945-98fb-dc099432e06a"
+OrderedCollections = "bac558e1-5e72-5ebc-8fee-abe8a469f55d"
