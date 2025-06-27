@@ -1,0 +1,3 @@
+name = "SSHConfig"
+uuid = "2e1b12dd-12a8-4702-adcc-0a56fdfcdc4b"
+repo = "/opt/lib/SSHConfig.jl"
