@@ -1,0 +1,3 @@
+name = "CloudVultr"
+uuid = "594c028c-9b1f-409a-8860-915ae3563380"
+repo = "/opt/lib/CloudVultr.jl"

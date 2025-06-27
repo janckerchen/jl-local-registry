@@ -15,6 +15,7 @@ description = "本地私有注册表"
 3f8fd914-8333-4068-8a7e-a1bb52a1c891 = { name = "KnitIntent", path = "K/KnitIntent" }
 4f10d341-401f-4f02-9507-79d9b1f51bf6 = { name = "CloudUI", path = "C/CloudUI" }
 58888f4e-6b76-4670-9d04-eda9c0ce1c3a = { name = "KnitShell", path = "K/KnitShell" }
+594c028c-9b1f-409a-8860-915ae3563380 = { name = "CloudVultr", path = "C/CloudVultr" }
 66c3412d-2a13-47c6-8507-f9a6b065dcc0 = { name = "KnitCommand", path = "K/KnitCommand" }
 71d211c4-67af-4226-bf57-c04ce0a47fa7 = { name = "REPLBuilder", path = "R/REPLBuilder" }
 744aca3e-52d2-455a-8de1-c81b4fa033f7 = { name = "CloudProvision", path = "C/CloudProvision" }
