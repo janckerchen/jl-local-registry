@@ -6,3 +6,6 @@ CloudProvisionVultr = "0c0cabac-adea-46a4-b989-85ad082cde13"
 
 ["0.1.1-0"]
 VultrCloud = "250039e9-ffb4-4cc8-99a9-6fd599fdda1e"
+
+["0.1.6-0"]
+Reexport = "189a3867-3050-52da-a836-e630ba90ab69"
