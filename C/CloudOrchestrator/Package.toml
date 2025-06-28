@@ -1,0 +1,3 @@
+name = "CloudOrchestrator"
+uuid = "e5cf7934-71a6-4e68-8918-299e86b24ce2"
+repo = "/opt/lib/CloudOrchestrator.jl"
