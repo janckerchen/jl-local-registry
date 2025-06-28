@@ -6,3 +6,6 @@ Printf = "de0858da-6303-5e67-8744-51eddeeeb8d7"
 ProgressLogging = "33c8b6b6-d38a-422a-b730-caa89a2f386c"
 SSHConfig = "2e1b12dd-12a8-4702-adcc-0a56fdfcdc4b"
 TerminalLoggers = "5d786b92-1e48-4d6f-9151-6b4477ca9bed"
+
+["0.1.1-0"]
+Logging = "56ddb016-857b-54e1-b83d-db4d58db5568"
