@@ -30,3 +30,4 @@ b080db75-af2b-41b8-a5e3-f52cafd13da9 = { name = "AbstractCloud", path = "A/Abstr
 c7ffd6e2-e1c8-49fd-970e-c347847bfaf0 = { name = "KnitCLI", path = "K/KnitCLI" }
 e5cf7934-71a6-4e68-8918-299e86b24ce2 = { name = "CloudOrchestrator", path = "C/CloudOrchestrator" }
 eedf712c-e094-4e2f-b26f-1b21bbf083bb = { name = "CloudCore", path = "C/CloudCore" }
+fa25229b-0c51-49da-a28f-84a77d707b8e = { name = "ZeroCLI", path = "Z/ZeroCLI" }
