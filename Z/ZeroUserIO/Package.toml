@@ -1,0 +1,3 @@
+name = "ZeroUserIO"
+uuid = "443d7fed-f74a-4633-bcd1-dcabbe50753f"
+repo = "/opt/lib/ZeroUserIO.jl"
