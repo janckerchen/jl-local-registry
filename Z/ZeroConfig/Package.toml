@@ -1,0 +1,3 @@
+name = "ZeroConfig"
+uuid = "79fd0c15-8642-4d61-9281-7f714adc83fc"
+repo = "/opt/lib/ZeroConfig.jl"
